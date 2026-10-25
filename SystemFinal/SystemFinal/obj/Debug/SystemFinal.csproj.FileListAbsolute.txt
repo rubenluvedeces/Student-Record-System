@@ -1,0 +1,14 @@
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\bin\Debug\SystemFinal.exe.config
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\bin\Debug\SystemFinal.exe
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\bin\Debug\SystemFinal.pdb
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\obj\Debug\SystemFinal.csproj.AssemblyReference.cache
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\obj\Debug\SystemFinal.Form1.resources
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\obj\Debug\SystemFinal.FormGrades.resources
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\obj\Debug\SystemFinal.FormProcessing.resources
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\obj\Debug\SystemFinal.FormRegister.resources
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\obj\Debug\SystemFinal.FormReports.resources
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\obj\Debug\SystemFinal.Properties.Resources.resources
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\obj\Debug\SystemFinal.csproj.GenerateResource.cache
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\obj\Debug\SystemFinal.csproj.CoreCompileInputs.cache
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\obj\Debug\SystemFinal.exe
+C:\Users\emapta\source\repos\SystemFinal\SystemFinal\obj\Debug\SystemFinal.pdb
